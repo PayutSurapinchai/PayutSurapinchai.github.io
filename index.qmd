@@ -1,5 +1,5 @@
 ---
-title: "PayutSurapinchai.github.io"
+title: "Bro this is really cool"
 ---
 
 This is a Quarto website.
