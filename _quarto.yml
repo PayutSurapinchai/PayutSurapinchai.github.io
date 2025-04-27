@@ -8,13 +8,17 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - favorites.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: darkly
+    mainfont: arial
+    fontsize: 1.5rem
+    monofont: courier new
     css: styles.css
     toc: true
+
 
 
 

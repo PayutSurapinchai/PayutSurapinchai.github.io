@@ -1,0 +1,8 @@
+---
+title: "Favorites"
+---
+
+## Favorite dog breeds
+
+- Corgi
+- Husky
